@@ -1,3 +1,3 @@
 <head>
-	<title>Document</title>
+	<title>Update on master</title>
 </head>
